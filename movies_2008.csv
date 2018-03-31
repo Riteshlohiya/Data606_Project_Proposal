@@ -1,4 +1,4 @@
-Rank,Movie,Release Date,Distributor,Genre,MPAA,2008 Gross,Tickets Sold,Inflation-Adjusted Gross
+Rank,Movie,Release_Date,Distributor,Genre,MPAA,2008_Gross,Tickets_Sold,Inflation_Adjusted_Gross
 1,The Dark Knight,7/18/2008,Warner Bros.,Action,PG-13,531001578,73955652,531001581
 2,Iron Man,5/2/2008,Paramount Pictures,Action,PG-13,318412101,44347089,318412099
 3,Indiana Jones and the Kingdom of the Crystal Skull,5/22/2008,Paramount Pictures,Adventure,PG-13,317101119,44164501,317101117
