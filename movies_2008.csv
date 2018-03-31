@@ -1,0 +1,735 @@
+Rank,Movie,Release Date,Distributor,Genre,MPAA,2008 Gross,Tickets Sold,Inflation-Adjusted Gross
+1,The Dark Knight,7/18/2008,Warner Bros.,Action,PG-13,531001578,73955652,531001581
+2,Iron Man,5/2/2008,Paramount Pictures,Action,PG-13,318412101,44347089,318412099
+3,Indiana Jones and the Kingdom of the Crystal Skull,5/22/2008,Paramount Pictures,Adventure,PG-13,317101119,44164501,317101117
+4,Hancock,7/2/2008,Sony Pictures,Action,PG-13,227946274,31747392,227946275
+5,WALL-E,6/27/2008,Buena Vista,Comedy,G,223806889,31170876,223806890
+6,Kung Fu Panda,6/6/2008,Paramount Pictures,Adventure,PG,215434591,30004818,215434593
+7,Madagascar: Escape 2 Africa,11/7/2008,Paramount Pictures,Comedy,PG,177016810,24654152,177016811
+8,Twilight,11/21/2008,Summit Entertainment,Drama,PG-13,176922850,24641065,176922847
+9,Quantum of Solace,11/14/2008,Sony Pictures,Action,PG-13,166820413,23234041,166820414
+10,Horton Hears a Who,3/14/2008,20th Century Fox,Adventure,G,154529439,21522206,154529439
+11,Sex and the City,5/30/2008,Warner Bros.,Comedy,R,152647258,21260064,152647260
+12,Mamma Mia!,7/18/2008,Universal,Musical,PG-13,144130063,20073825,144130064
+13,Juno,12/5/2007,Fox Searchlight,Comedy,PG-13,143495265,19985413,143495265
+14,The Chronicles of Narnia: Prince Caspian,5/16/2008,Buena Vista,Adventure,PG,141621490,19724442,141621494
+15,The Incredible Hulk,6/13/2008,Universal,Adventure,PG-13,134806913,18775336,134806912
+16,Wanted,6/27/2008,Universal,Action,R,134508551,18733781,134508548
+17,Get Smart,6/20/2008,Warner Bros.,Comedy,PG-13,130319208,18150308,130319211
+18,Four Christmases,11/26/2008,Warner Bros.,Comedy,PG-13,118189834,16460980,118189836
+19,Tropic Thunder,8/13/2008,Paramount Pictures,Comedy,R,110515313,15392105,110515314
+20,Bolt,11/21/2008,Buena Vista,Comedy,PG,109917145,15308795,109917148
+21,Marley & Me,12/25/2008,20th Century Fox,Comedy,PG,106664046,14855717,106664048
+22,The Mummy: Tomb of the Dragon Emperor,8/1/2008,Universal,Adventure,PG-13,102491776,14274621,102491779
+23,Journey to the Center of the Earth,7/11/2008,Warner Bros.,Adventure,PG,101704370,14164954,101704370
+24,Eagle Eye,9/26/2008,Paramount Pictures,Thriller/Suspense,PG-13,101401695,14122799,101401697
+25,Step Brothers,7/25/2008,Sony Pictures,Comedy,R,100468793,13992868,100468792
+26,You Don't Mess With the Zohan,6/6/2008,Sony Pictures,Comedy,PG-13,100018837,13930200,100018836
+27,"10,000 B.C.",3/7/2008,Warner Bros.,Adventure,PG-13,94784201,13201142,94784200
+28,Beverly Hills Chihuahua,10/3/2008,Buena Vista,Comedy,PG,93778953,13061136,93778956
+29,The Bucket List,12/25/2007,Warner Bros.,Comedy,PG-13,92588080,12895276,92588082
+30,High School Musical 3: Senior Year,10/24/2008,Buena Vista,Musical,G,90224290,12566057,90224289
+31,The Pineapple Express,8/6/2008,Sony Pictures,Comedy,R,87341380,12164538,87341383
+32,Bedtime Stories,12/25/2008,Buena Vista,Comedy,PG,85539168,11913533,85539167
+33,21,3/28/2008,Sony Pictures,Thriller/Suspense,PG-13,81159365,11303533,81159367
+34,What Happens in Vegas...,5/9/2008,20th Century Fox,Romantic Comedy,PG-13,80277646,11180731,80277649
+35,Jumper,2/14/2008,20th Century Fox,Adventure,PG-13,80172128,11166035,80172131
+36,Cloverfield,1/18/2008,Paramount Pictures,Action,PG-13,80048433,11148807,80048434
+37,Yes Man,12/19/2008,Warner Bros.,Comedy,PG-13,79507388,11073452,79507385
+38,The Curious Case of Benjamin Button,12/25/2008,Paramount Pictures,Drama,PG-13,79297086,11044162,79297083
+39,National Treasure: The Book of Secrets,12/21/2007,Buena Vista,Adventure,PG,77018263,10726778,77018266
+40,27 Dresses,1/18/2008,20th Century Fox,Romantic Comedy,PG-13,76808654,10697584,76808653
+41,Hellboy 2: The Golden Army,7/11/2008,Universal,Action,PG-13,75986503,10583078,75986500
+42,The Day the Earth Stood Still,12/12/2008,20th Century Fox,Adventure,PG-13,74424256,10365495,74424254
+43,Vantage Point,2/22/2008,Sony Pictures,Thriller/Suspense,PG-13,72266306,10064945,72266305
+44,The Spiderwick Chronicles,2/14/2008,Paramount Pictures,Adventure,PG,71195053,9915746,71195056
+45,Fool's Gold,2/8/2008,Warner Bros.,Adventure,PG-13,70231041,9781482,70231041
+46,Role Models,11/7/2008,Universal,Comedy,R,66703740,9290214,66703737
+47,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,2/1/2008,Buena Vista,Concert/Performance,G,65281781,9092170,65281781
+48,The Happening,6/13/2008,20th Century Fox,Thriller/Suspense,R,64506874,8984244,64506872
+49,Alvin and the Chipmunks,12/14/2007,20th Century Fox,Comedy,,63694531,8871105,63694534
+50,Forgetting Sarah Marshall,4/18/2008,Universal,Comedy,R,63172463,8798393,63172462
+51,Valkyrie,12/25/2008,United Artists,Thriller/Suspense,PG-13,60691979,8452922,60691980
+52,Baby Mama,4/25/2008,Universal,Comedy,PG-13,60494212,8425378,60494214
+53,Burn After Reading,9/12/2008,Focus Features,Black Comedy,R,60355347,8406037,60355346
+54,Seven Pounds,12/19/2008,Sony Pictures,Drama,PG-13,60147298,8377061,60147298
+55,Step Up 2 the Streets,2/14/2008,Buena Vista,Drama,PG-13,58017783,8080471,58017782
+56,Saw V,10/24/2008,Lionsgate,Horror,R,56746769,7903450,56746771
+57,The Strangers,5/30/2008,Focus Features,Thriller/Suspense,R,52597610,7325572,52597607
+58,The Forbidden Kingdom,4/18/2008,Lionsgate,Action,PG-13,52075270,7252823,52075269
+59,I am Legend,12/14/2007,Warner Bros.,Horror,PG-13,50263436,7000479,50263439
+60,The House Bunny,8/22/2008,Sony Pictures,Comedy,PG-13,48237389,6718299,48237387
+61,Nim's Island,4/4/2008,20th Century Fox,Adventure,PG,48006762,6686179,48006765
+62,Australia,11/26/2008,20th Century Fox,Drama,PG-13,46686713,6502328,46686715
+63,Made of Honor,5/2/2008,Sony Pictures,Romantic Comedy,PG-13,46012734,6408459,46012736
+64,College Road Trip,3/7/2008,Buena Vista,Comedy,G,45610425,6352427,45610426
+65,The Sisterhood of the Traveling Pants 2,8/6/2008,Warner Bros.,Adventure,PG-13,44089964,6140664,44089968
+66,Speed Racer,5/9/2008,Warner Bros.,Action,PG,43945766,6120580,43945764
+67,Prom Night,4/11/2008,Sony/Screen Gems,Horror,PG-13,43869350,6109937,43869348
+68,The Tale of Despereaux,12/19/2008,Universal,Adventure,G,43661775,6081027,43661774
+69,Rambo,1/25/2008,Lionsgate,Action,R,42754105,5954611,42754107
+70,Welcome Home Roscoe Jenkins,2/8/2008,Universal,Comedy,PG-13,42436517,5910378,42436514
+71,Meet the Browns,3/21/2008,Lionsgate,Comedy,PG-13,41975388,5846154,41975386
+72,Nights in Rodanthe,9/26/2008,Warner Bros.,Drama,PG-13,41802381,5822059,41802384
+73,Max Payne,10/17/2008,20th Century Fox,Action,PG-13,40677229,5665352,40677227
+74,Righteous Kill,9/12/2008,Overture Films,Thriller/Suspense,R,40081410,5582369,40081409
+75,There Will Be Blood,12/26/2007,Paramount Vantage,Drama,R,39795491,5542547,39795487
+76,Body of Lies,10/10/2008,Warner Bros.,Thriller/Suspense,R,39315385,5475680,39315382
+77,Lakeview Terrace,9/19/2008,Sony/Screen Gems,Thriller/Suspense,PG-13,39263506,5468455,39263507
+78,Meet the Spartans,1/25/2008,20th Century Fox,Comedy,PG-13,38233676,5325025,38233680
+79,Harold & Kumar Escape from Guantanamo Bay,4/25/2008,Warner Bros.,Comedy,R,38108728,5307622,38108726
+80,Atonement,12/7/2007,Focus Features,Drama,R,37979097,5289568,37979098
+81,First Sunday,1/11/2008,Sony/Screen Gems,Comedy,PG-13,37931869,5282990,37931868
+82,The Secret Life of Bees,10/17/2008,Fox Searchlight,Drama,PG-13,37525311,5226366,37525308
+83,The Family That Preys,9/12/2008,Lionsgate,Comedy,PG-13,37105289,5167868,37105292
+84,Death Race,8/22/2008,Universal,Action,R,36316032,5057943,36316031
+85,Changeling,10/24/2008,Universal,Thriller/Suspense,R,35707327,4973165,35707325
+86,Star Wars: The Clone Wars,8/15/2008,Warner Bros.,Adventure,PG,35161554,4897152,35161551
+87,Semi-Pro,2/29/2008,New Line,Comedy,R,33479698,4662911,33479701
+88,Fireproof,9/26/2008,Samuel Goldwyn Films,Drama,PG,33256544,4631831,33256547
+89,No Country for Old Men,11/9/2007,Miramax,Action,R,33205061,4624660,33205059
+90,Drillbit Taylor,3/21/2008,Paramount Pictures,Comedy,PG-13,32862104,4576895,32862106
+91,"Definitely, Maybe",2/14/2008,Universal,Romantic Comedy,PG-13,32241649,4490480,32241646
+92,The Love Guru,6/20/2008,Paramount Pictures,Comedy,PG-13,32235793,4489665,32235795
+93,Transporter 3,11/26/2008,Lionsgate,Action,PG-13,31715062,4417140,31715065
+94,Quarantine,10/10/2008,Sony/Screen Gems,Horror,R,31691811,4413901,31691809
+95,Nick and Norah's Infinite Playlist,10/3/2008,Sony Pictures,Drama,PG-13,31487293,4385417,31487294
+96,The Eye,2/1/2008,Lionsgate,Thriller/Suspense,PG-13,31418697,4375863,31418696
+97,Leatherheads,4/4/2008,Universal,Romantic Comedy,PG-13,31373938,4369629,31373936
+98,Zack and Miri Make a Porno,10/31/2008,Weinstein Co.,Comedy,R,31300810,4359444,31300808
+99,Mirrors,8/15/2008,20th Century Fox,Horror,R,30691439,4274574,30691441
+100,Space Chimps,7/18/2008,20th Century Fox,Adventure,G,30105968,4193032,30105970
+101,The Bank Job,3/7/2008,Lionsgate,Thriller/Suspense,R,30060660,4186721,30060657
+102,Untraceable,1/25/2008,Sony/Screen Gems,Thriller/Suspense,R,28687835,3995520,28687834
+103,Slumdog Millionaire,11/12/2008,Fox Searchlight,Drama,R,28676598,3993955,28676597
+104,The Women,9/12/2008,Picturehouse,Comedy,PG-13,26902075,3746807,26902074
+105,One Missed Call,1/4/2008,Warner Bros.,Horror,PG-13,26890041,3745131,26890041
+106,The Other Boleyn Girl,2/29/2008,Sony Pictures,Drama,PG-13,26814957,3734674,26814959
+107,Street Kings,4/11/2008,Fox Searchlight,Thriller/Suspense,R,26418667,3679480,26418666
+108,Shutter,3/21/2008,20th Century Fox,Horror,PG-13,25928550,3611219,25928552
+109,Superhero Movie,3/28/2008,MGM,Comedy,PG-13,25874034,3603626,25874035
+110,"P.S., I Love You",12/21/2007,Warner Bros.,Romantic Comedy,PG-13,25794246,3592513,25794243
+111,W.,10/17/2008,Lionsgate,Drama,PG-13,25534493,3556336,25534492
+112,Charlie Wilson's War,12/21/2007,Universal,Drama,R,24957785,3476015,24957788
+113,Never Back Down,3/14/2008,Summit Entertainment,Action,PG-13,24850922,3461131,24850921
+114,Traitor,8/27/2008,Overture Films,Thriller/Suspense,PG-13,23530831,3277275,23530835
+115,Vicky Cristina Barcelona,8/15/2008,MGM,Comedy,PG-13,22830692,3179762,22830691
+116,Babylon A.D.,8/29/2008,20th Century Fox,Action,PG-13,22532572,3138241,22532570
+117,Sweeney Todd: The Demon Barber of Fleet Street,12/21/2007,Paramount Pictures,Musical,R,22288215,3104208,22288213
+118,The X-Files: I Want to Believe,7/25/2008,20th Century Fox,Action,PG-13,20982478,2922351,20982480
+119,Mad Money,1/18/2008,Overture Films,Comedy,PG-13,20668843,2878669,20668843
+120,Appaloosa,9/19/2008,Warner Bros.,Western,R,20080574,2796737,20080572
+121,Igor,9/19/2008,MGM,Comedy,PG,19486744,2714031,19486743
+122,My Best Friend's Girl,9/19/2008,Lionsgate,Comedy,R,19219250,2676776,19219252
+123,The Water Horse: Legend of the Deep,12/25/2007,Sony Pictures,Drama,PG,18731137,2608793,18731134
+124,Doubt,12/12/2008,Miramax,Drama,PG-13,18705481,2605220,18705480
+125,The Spirit,12/25/2008,Lionsgate,Action,PG-13,17743738,2471273,17743740
+126,Kit Kittredge: An American Girl,6/20/2008,Picturehouse,Drama,G,17657973,2459328,17657975
+127,The Ruins,4/4/2008,Paramount Pictures,Horror,R,17432844,2427973,17432846
+128,Milk,11/26/2008,Focus Features,Drama,R,17157994,2389693,17157996
+129,88 Minutes,4/18/2008,Sony Pictures,Thriller/Suspense,R,16930884,2358062,16930885
+130,Swing Vote,8/1/2008,Buena Vista,Comedy,PG-13,16289867,2268784,16289869
+131,Pride and Glory,10/24/2008,Warner Bros.,Drama,R,15740721,2192301,15740721
+132,Bangkok Dangerous,9/5/2008,Lionsgate,Action,R,15279680,2128089,15279679
+133,Sea Monsters: A Prehistoric Adventure,10/5/2007,National Geographic,Documentary,Not Rated,14710283,2048786,14710283
+134,Disaster Movie,8/29/2008,Lionsgate,Comedy,PG-13,14190901,1976449,14190904
+135,The Duchess,9/19/2008,Paramount Vantage,Drama,PG-13,13848978,1928827,13848978
+136,Enchanted,11/21/2007,Buena Vista,Romantic Comedy,PG,13793851,1921149,13793850
+137,The Great Debaters,12/25/2007,Weinstein Co.,Drama,PG-13,13791114,1920768,13791114
+138,The Haunting of Molly Hartley,10/31/2008,Freestyle Releasing,Thriller/Suspense,PG-13,13442412,1872202,13442410
+139,Ghost Town,9/19/2008,Paramount Pictures,Romantic Comedy,PG-13,13367624,1861786,13367623
+140,Religulous,10/1/2008,Lionsgate,Documentary,R,13011160,1812139,13011158
+141,The Pirates Who Don't Do Anything: A VeggieTales Movie,1/11/2008,Universal,Comedy,G,12981269,1807976,12981268
+142,Under the Same Moon,3/19/2008,Weinstein Co.,Drama,PG-13,12590147,1753502,12590144
+143,Fly Me To the Moon,8/15/2008,Summit Entertainment,Adventure,G,12564415,1749919,12564418
+144,Miss Pettigrew Lives for a Day,3/7/2008,Focus Features,Comedy,PG-13,12313694,1714999,12313693
+145,Soul Men,11/7/2008,MGM,Comedy,R,12024598,1674735,12024597
+146,Meet Dave,7/11/2008,20th Century Fox,Comedy,PG,11803254,1643907,11803252
+147,The Longshots,8/22/2008,MGM,Drama,PG,11511323,1603248,11511321
+148,His Dark Materials: The Golden Compass,12/7/2007,New Line,Adventure,PG-13,11332392,1578328,11332395
+149,Aliens vs. Predator - Requiem,12/25/2007,20th Century Fox,Action,R,11311743,1575452,11311745
+150,Be Kind Rewind,2/22/2008,New Line,Comedy,PG-13,11175164,1556430,11175167
+151,Doomsday,3/14/2008,Universal,Action,R,11008770,1533255,11008771
+152,Stop-Loss,3/28/2008,Paramount Pictures,Drama,R,10915744,1520299,10915747
+153,Space Station,4/19/2002,IMAX Films,Documentary,Not Rated,10904400,1518719,10904402
+154,Rachel Getting Married,10/3/2008,Sony Pictures Classics,Drama,R,10307424,1435574,10307421
+155,Penelope,2/29/2008,Summit Entertainment,Drama,PG,10011996,1394428,10011993
+156,Michael Clayton,10/5/2007,Warner Bros.,Drama,R,9866490,1374163,9866490
+157,Gran Torino,12/12/2008,Warner Bros.,Drama,R,9820554,1367765,9820553
+158,The Express,10/10/2008,Universal,Drama,PG,9793406,1363984,9793405
+159,U2 3D,1/23/2008,National Geographic,Concert/Performance,G,9674438,1347415,9674440
+160,Smart People,4/11/2008,Miramax,Romantic Comedy,R,9511289,1324692,9511289
+161,The Visitor,4/11/2008,Overture Films,Comedy,PG-13,9427026,1312956,9427024
+162,The Kite Runner,12/14/2007,Paramount Vantage,Drama,PG-13,9372753,1305397,9372750
+163,The Boy in the Striped Pyjamas,11/7/2008,Miramax,Drama,PG-13,8854137,1233167,8854139
+164,Sex Drive,10/17/2008,Summit Entertainment,Comedy,R,8402485,1170263,8402488
+165,Cadillac Records,12/5/2008,Sony Pictures,Drama,R,8134217,1132899,8134215
+166,Punisher: War Zone,12/5/2008,Lionsgate,Action,R,8050977,1121306,8050977
+167,Miracle at St. Anna,9/26/2008,Buena Vista,Drama,R,7916887,1102631,7916891
+168,City of Ember,10/10/2008,20th Century Fox,Adventure,PG,7862312,1095030,7862315
+169,In Bruges,2/8/2008,Focus Features,Comedy,R,7800825,1086466,7800826
+170,Expelled: No Intelligence Allowed,4/18/2008,Rocky Mountain Pictures,Documentary,PG,7720487,1075277,7720489
+171,Over Her Dead Body,2/1/2008,New Line,Comedy,PG-13,7570127,1054335,7570125
+172,Nothing Like the Holidays,12/12/2008,Overture Films,Comedy,PG-13,7405784,1031446,7405782
+173,How She Move,1/25/2008,Paramount Vantage,Drama,PG-13,7070641,984769,7070641
+174,An American Carol,10/3/2008,Vivendi Entertainment,Comedy,PG-13,7013191,976768,7013194
+175,The Orphanage,12/28/2007,Picturehouse,Horror,R,6821123,950017,6821122
+176,Strange Wilderness,2/1/2008,Paramount Vantage,Comedy,R,6575282,915777,6575279
+177,Brideshead Revisited,7/25/2008,Miramax,Drama,PG-13,6432256,895857,6432253
+178,The Rocker,8/20/2008,20th Century Fox,Comedy,PG-13,6409528,892692,6409529
+179,Frost/Nixon,12/5/2008,Universal,Drama,R,6291176,876208,6291173
+180,Tell No One,7/2/2008,Music Box Films,Thriller/Suspense,Not Rated,6137968,854870,6137967
+181,"Run, Fat Boy, Run",3/28/2008,Picturehouse,Comedy,PG-13,6003262,836109,6003263
+182,Mongol,6/6/2008,Picturehouse,Drama,R,5705761,794674,5705759
+183,RocknRolla,10/8/2008,Warner Bros.,Action,R,5700626,793959,5700626
+184,Shine a Light,4/4/2008,Paramount Vantage,Documentary,R,5505267,766750,5505265
+185,The Counterfeiters,2/22/2008,Sony Pictures Classics,Drama,R,5488570,764425,5488572
+186,Magnificent Desolation,9/23/2005,IMAX Films,Documentary,Not Rated,5355159,745844,5355160
+187,Dolphins and Whales Tribes of the Ocean 3D,2/15/2008,3D Entertainment,Documentary,Not Rated,5243604,730307,5243604
+188,The Diving Bell and the Butterfly,11/30/2007,Miramax,Drama,PG-13,5107379,711334,5107378
+189,Hamlet 2,8/22/2008,Focus Features,Comedy,R,4886216,680531,4886213
+190,In the Name of the King: A Dungeon Siege Tale,1/11/2008,Freestyle Releasing,Action,PG-13,4775656,665133,4775655
+191,College,8/29/2008,MGM,Comedy,R,4694491,653829,4694492
+192,The Savages,11/28/2007,Fox Searchlight,Drama,R,4654390,648244,4654392
+193,Deception,4/25/2008,20th Century Fox,Thriller/Suspense,R,4598506,640460,4598503
+194,Flash of Genius,10/3/2008,Universal,Drama,PG-13,4442377,618715,4442374
+195,Passchendaele,10/24/2008,Alliance Atlantis,Drama,Not Rated,4435251,617723,4435251
+196,Persepolis,12/25/2007,Sony Pictures Classics,Drama,PG-13,4280031,596105,4280034
+197,Witless Protection,2/22/2008,Lionsgate,Comedy,PG-13,4151836,578250,4151835
+198,Walk Hard: The Dewey Cox Story,12/21/2007,Sony Pictures,Comedy,R,4072431,567191,4072431
+199,Bottle Shock,8/6/2008,Freestyle Releasing,Drama,PG-13,4048523,563861,4048522
+200,Young @ Heart,4/9/2008,Fox Searchlight,Documentary,PG,3992189,556015,3992188
+201,Charlie Bartlett,2/22/2008,MGM,Comedy,R,3950294,550180,3950292
+202,Then She Found Me,4/25/2008,ThinkFilm,Romantic Comedy,R,3735717,520295,3735718
+203,Elegy,8/8/2008,Samuel Goldwyn Films,Drama,R,3577210,498219,3577212
+204,Cruising Bar 2,6/27/2008,Alliance Atlantis,Comedy,Not Rated,3554434,495047,3554437
+205,The Reader,12/10/2008,Weinstein Co.,Drama,R,3553578,494927,3553576
+206,Deep Sea 3-D,3/3/2006,Warner Bros.,Documentary,G,3550091,494442,3550094
+207,Jodhaa Akbar,2/14/2008,UTV Communications,Drama,Not Rated,3440718,479209,3440721
+208,Happy-Go-Lucky,10/10/2008,Miramax,Comedy,R,3310429,461063,3310432
+209,Blindness,10/3/2008,Miramax,Thriller/Suspense,R,3073392,428049,3073392
+210,The Band's Visit,2/8/2008,Sony Pictures Classics,Comedy,PG-13,3053823,425324,3053826
+211,Man on Wire,7/25/2008,Magnolia Pictures,Documentary,PG-13,2942990,409887,2942989
+212,Choke,9/26/2008,Fox Searchlight,Comedy,R,2926565,407600,2926568
+213,How to Lose Friends & Alienate People,10/3/2008,MGM,Comedy,R,2775593,386573,2775594
+214,"Synecdoche, New York",10/24/2008,Sony Pictures Classics,Drama,R,2705849,376859,2705848
+215,Singh is Kinng,8/8/2008,Studio 18,Action,Not Rated,2523511,351464,2523512
+216,I've Loved You So Long,10/24/2008,Sony Pictures Classics,Drama,Not Rated,2355979,328131,2355981
+217,Redbelt,5/2/2008,Sony Pictures Classics,Action,R,2344847,326580,2344844
+218,Frozen River,8/1/2008,Sony Pictures Classics,Drama,R,2309148,321608,2309145
+219,The Fall,5/9/2008,Roadside Attractions,Adventure,R,2273751,316678,2273748
+220,Transsiberian,7/18/2008,First Look,Thriller/Suspense,R,2203641,306914,2203643
+221,Ghajini,12/26/2008,AdLab Films,Thriller/Suspense,Not Rated,2192682,305387,2192679
+222,Priceless,3/28/2008,Samuel Goldwyn Films,Comedy,PG-13,2164670,301486,2164669
+223,Bee Movie,11/2/2007,Paramount Pictures,Comedy,PG,2112935,294281,2112938
+224,The Wackness,7/3/2008,Sony Pictures Classics,Comedy,R,2077046,289282,2077045
+225,Rab Ne Bana Di Jodi,12/12/2008,Yash Raj Films,Drama,Not Rated,2040699,284220,2040700
+226,Dans une galaxie pres de chez vous 2,4/18/2008,TVA Films,Comedy,Not Rated,1883999,262395,1883996
+227,The Polar Express,11/10/2004,Warner Bros.,Adventure,G,1862997,259470,1862995
+228,Roman de Gare,4/25/2008,Samuel Goldwyn Films,Drama,R,1852764,258045,1852763
+229,Henry Poole Is Here,8/15/2008,Overture Films,Comedy,PG,1835293,255612,1835294
+230,Son of Rambow: A Home Movie,5/2/2008,Paramount Vantage,Comedy,PG-13,1785505,248678,1785508
+231,Roving Mars,1/27/2006,Buena Vista,Documentary,G,1775287,247254,1775284
+232,Talento de Barrio,10/10/2008,Maya Releasing,Drama,R,1667294,232214,1667297
+233,The Game Plan,9/28/2007,Buena Vista,Comedy,PG,1608219,223986,1608219
+234,Married Life,3/7/2008,Sony Pictures Classics,Drama,PG-13,1506998,209888,1506996
+235,August Rush,11/21/2007,Warner Bros.,Drama,PG,1490945,207653,1490949
+236,Let the Right One In,10/24/2008,Magnolia Pictures,Horror,R,1483912,206673,1483912
+237,Bienvenue chez les Ch'tis,7/25/2008,Link Productions Ltd.,Comedy,Not Rated,1470856,204855,1470859
+238,Revolutionary Road,12/26/2008,Paramount Vantage,Drama,R,1375749,191608,1375745
+239,Race,3/21/2008,UTV Communications,Action,Not Rated,1367024,190393,1367022
+240,The Wrestler,12/17/2008,Fox Searchlight,Drama,R,1324228,184433,1324229
+241,Into the Wild,9/21/2007,Paramount Vantage,Drama,R,1295247,180397,1295250
+242,Funny Games,3/14/2008,Warner Independent,Thriller/Suspense,R,1294640,180312,1294640
+243,Gonzo: The Life and Work of Dr. Hunter S. Thompson,7/3/2008,Magnolia Pictures,Documentary,R,1252100,174387,1252099
+244,Dostana,11/14/2008,Yash Raj Films,Musical,Not Rated,1235028,172009,1235025
+245,Flawless,3/28/2008,Magnolia Pictures,Drama,PG-13,1200234,167164,1200238
+246,"4 Months, 3 Weeks and 2 Days",10/26/2007,IFC Films,Drama,Not Rated,1124397,156601,1124395
+247,Tim Burton's The Nightmare Before Christmas 3D,10/20/2006,Buena Vista,Musical,PG,1109053,154464,1109052
+248,Brick Lane,6/20/2008,Sony Pictures Classics,Drama,PG-13,1094998,152507,1095000
+249,What Just Happened,10/17/2008,Magnolia Pictures,Comedy,R,1090947,151942,1090944
+250,Beowulf,11/16/2007,Paramount Pictures,Adventure,PG-13,1075379,149774,1075377
+251,And When Did You Last See Your Father?,6/6/2008,Sony Pictures Classics,Drama,PG-13,1071240,149198,1071242
+252,Babine,11/28/2008,Alliance Atlantis,Drama,Not Rated,1056082,147087,1056085
+253,Before the Rains,5/9/2008,Roadside Attractions,Drama,PG-13,1037128,144447,1037129
+254,The Children of Huang Shi,5/23/2008,Sony Pictures Classics,Drama,R,1031872,143715,1031874
+255,"You, Me and Us",4/11/2008,Eros Entertainment,Drama,Not Rated,1028191,143202,1028190
+256,American Gangster,11/2/2007,Universal,Drama,R,1013910,141213,1013909
+257,Sarkar Raj,6/6/2008,Eros Entertainment,Drama,Not Rated,1009065,140538,1009063
+258,Asterix at the Olympic Games,1/30/2008,Alliance Atlantis,Adventure,Not Rated,999811,139249,999808
+259,A Christmas Tale,11/14/2008,IFC Films,Drama,Not Rated,992052,138169,992053
+260,Cassandra's Dream,1/18/2008,Weinstein Co.,Drama,PG-13,973018,135518,973019
+261,Mr. Magorium's Wonder Emporium,11/16/2007,20th Century Fox,Comedy,G,964396,134317,964396
+262,Diary of the Dead,2/15/2008,Weinstein Co.,Horror,R,952620,132677,952621
+263,Encounters at the End of the World,6/11/2008,ThinkFilm,Documentary,G,944933,131606,944931
+264,American Teen,7/25/2008,Paramount Vantage,Documentary,PG-13,942441,131259,942440
+265,L'?ge des t?n?bres,12/7/2007,Alliance Atlantis,Comedy,Not Rated,941618,131145,941621
+266,I'm Not There,11/21/2007,Weinstein Co.,Drama,R,874343,121775,874345
+267,Emma Smith: My Story,4/11/2008,Candlelight Media,Drama,PG,872427,121508,872427
+268,My Blueberry Nights,4/4/2008,Weinstein Co.,Drama,PG-13,866778,120721,866777
+269,I.O.U.S.A.,8/22/2008,Roadside Attractions,Documentary,PG,810196,112841,810198
+270,The Year My Parents Went on Vacation,2/15/2008,City Lights Pictures,Drama,PG,807117,112412,807118
+271,The Last Mistress,6/27/2008,IFC Films,Drama,Not Rated,785671,109425,785672
+272,Up the Yangtze,4/25/2008,Zeitgeist,Documentary,Not Rated,783969,109188,783970
+273,The Edge of Heaven,5/21/2008,Strand,Drama,Not Rated,742349,103391,742347
+274,Dan in Real Life,10/26/2007,Buena Vista,Romantic Comedy,PG-13,735810,102481,735814
+275,Forever Strong,9/26/2008,Crane Movie Company,Drama,PG-13,719556,100217,719558
+276,Un ?t? sans point ni coup s?r,8/1/2008,Alliance Vivafilm,Drama,Not Rated,712036,99169,712033
+277,Bachna Ae Haseeno,8/15/2008,Yash Raj Films,Romantic Comedy,Not Rated,702166,97795,702168
+278,Delgo,12/12/2008,Freestyle Releasing,Adventure,PG,694782,96766,694780
+279,Beer for My Horses,8/8/2008,Roadside Attractions,Comedy,PG-13,666045,92764,666046
+280,Before the Devil Knows You're Dead,10/26/2007,ThinkFilm,Drama,R,661340,92109,661343
+281,Heroes,10/24/2008,Eros Entertainment,Adventure,R,655538,91301,655541
+282,Fugitive Pieces,5/2/2008,Samuel Goldwyn Films,Drama,R,634379,88354,634382
+283,Santa vs. The Snowman,11/6/2002,IMAX Films,Adventure,Not Rated,623811,86882,623813
+284,I Served the King of England,8/29/2008,Sony Pictures Classics,Black Comedy,R,617228,85965,617229
+285,Fred Claus,11/9/2007,Warner Bros.,Comedy,PG,609342,84867,609345
+286,Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland,2/8/2008,Weinstein Co.,Documentary,R,603894,84108,603895
+287,Jaane Tu Ya Jaane Na,7/3/2008,UTV Communications,Comedy,Not Rated,600922,83694,600923
+288,"War, Inc.",5/23/2008,First Look,Black Comedy,R,578527,80575,578529
+289,A Secret,9/5/2008,Strand,Drama,Not Rated,578051,80508,578047
+290,House,11/7/2008,Roadside Attractions,Horror,R,575048,80090,575046
+291,Yuvraaj,11/21/2008,Eros Entertainment,Musical,Not Rated,565440,78752,565439
+292,Taare Zameen Par,12/21/2007,UTV Communications,Drama,Not Rated,560672,78088,560672
+293,Reprise,5/16/2008,Miramax,Drama,R,554826,77274,554827
+294,Maman est chez le coiffeur,5/2/2008,Equinox,Drama,Not Rated,552984,77017,552982
+295,Nobel Son,12/5/2008,Freestyle Releasing,Thriller/Suspense,R,539572,75149,539570
+296,Noah's Arc: Jumping the Broom,10/24/2008,Logo Features,Romantic Comedy,R,532878,74217,532878
+297,2007 Academy Award Nominated Short Films,2/15/2008,Magnolia Pictures,Multiple Genres,PG-13,508695,70849,508696
+298,Bonneville,2/29/2008,Senart/Scranton-Lacy,Drama,PG,488393,68021,488391
+299,Krazzy 4,4/11/2008,Eros Entertainment,Comedy,Not Rated,487215,67857,487213
+300,Trouble the Water,8/22/2008,Zeitgeist,Documentary,Not Rated,486582,67769,486581
+301,Paranoid Park,3/7/2008,IFC Films,Drama,R,486021,67691,486021
+302,Kismat Konnection,7/18/2008,UTV Communications,Romantic Comedy,Not Rated,479759,66819,479760
+303,Drona,10/3/2008,Eros Entertainment,Adventure,Not Rated,475104,66170,475101
+304,La Ligne Bris?e,3/7/2008,,Drama,Not Rated,466309,64946,466312
+305,Bella,10/26/2007,Roadside Attractions,Drama,PG-13,462020,64348,462019
+306,The Flight of the Red Balloon,4/2/2008,IFC Films,Drama,Not Rated,459364,63978,459362
+307,Tashan,4/25/2008,Yash Raj Films,Action,Not Rated,457380,63702,457380
+308,Bhoothnath,5/9/2008,Eros Entertainment,Drama,Not Rated,449776,62643,449777
+309,JCVD,11/7/2008,Peace Arch Releasing,Action,R,448991,62534,448994
+310,The Hammer,3/21/2008,Hammer the Movie,Comedy,R,442638,61649,442640
+311,Hitman,11/21/2007,20th Century Fox,Action,R,438996,61142,439000
+312,Savage Grace,5/28/2008,IFC Films,Drama,Not Rated,434417,60504,434419
+313,Starting Out in the Evening,11/23/2007,Roadside Attractions,Drama,PG-13,422075,58785,422076
+314,The Girl Cut in Two,8/15/2008,IFC Films,Thriller/Suspense,Not Rated,409658,57055,409655
+315,Le Piege Americain,5/16/2008,Alliance Atlantis,Thriller/Suspense,Not Rated,407447,56747,407443
+316,The Promotion,6/6/2008,Weinstein Co.,Comedy,R,406252,56581,406252
+317,Snow Angels,3/7/2008,Warner Independent,Drama,R,402858,56108,402855
+318,Where in the World is Osama Bin Laden?,4/18/2008,Weinstein Co.,Documentary,PG-13,384955,53615,384956
+319,Towelhead,9/12/2008,Warner Bros.,Drama,R,372124,51828,372125
+320,The Singing Revolution,12/7/2007,Abramorama Films,Documentary,Not Rated,365660,50928,365663
+321,La Rivi?re aux Castors,2/22/2008,Alliance Atlantis,Drama,Not Rated,360886,50263,360888
+322,Everybody Wants To Be Italian,9/5/2008,Roadside Attractions,Comedy,R,351416,48944,351418
+323,Last Chance Harvey,12/25/2008,Overture Films,Drama,PG-13,350947,48878,350944
+324,Teeth,1/18/2008,Roadside Attractions,Comedy,R,346692,48286,346693
+325,Jellyfish,4/4/2008,Zeitgeist,Drama,Not Rated,341221,47524,341222
+326,Tout est Parfait,2/15/2008,Alliance Atlantis,Drama,Not Rated,336569,46876,336570
+327,Thoda Pyaar Thoda Magic,6/27/2008,Yash Raj Films,Drama,Not Rated,335874,46779,335873
+328,Kidnap,10/3/2008,Studio 18,Thriller/Suspense,Not Rated,328573,45762,328571
+329,Billy: The Early Years of Billy Graham,10/10/2008,Rocky Mountain Pictures,Drama,Not Rated,320896,44693,320896
+330,Golmaal Returns,10/31/2008,Studio 18,Comedy,Not Rated,313102,43608,313105
+331,"Bigger, Stronger, Faster*",5/30/2008,Magnolia Pictures,Documentary,PG-13,308575,42977,308575
+332,City of Men,2/29/2008,Miramax,Drama,R,307076,42768,307074
+333,Life Before Her Eyes,4/18/2008,Magnolia Pictures,Drama,R,303439,42262,303441
+334,OSS 117,5/9/2008,Music Box Films,Action,Not Rated,303328,42246,303326
+335,Awake,11/30/2007,Weinstein Co.,Thriller/Suspense,R,295591,41169,295593
+336,Passengers,10/24/2008,Sony Pictures,Thriller/Suspense,PG-13,292437,40729,292434
+337,The Mist,11/21/2007,MGM,Horror,R,287853,40091,287853
+338,The Perfect Holiday,12/12/2007,Yari Film Group Releasing,Romantic Comedy,PG,280140,39017,280142
+339,The Duchess of Langeais,2/22/2008,IFC Films,Drama,Not Rated,278601,38802,278598
+340,The Grocer's Son,6/6/2008,Film Movement,Drama,Not Rated,276454,38503,276452
+341,Morning Light,10/17/2008,Buena Vista,Documentary,PG,275093,38314,275095
+342,Taxi to the Dark Side,1/18/2008,ThinkFilm,Documentary,R,274661,38254,274664
+343,Planet B-Boy,3/21/2008,Elephant Eye Films,Documentary,Not Rated,272791,37993,272790
+344,Surfwise,5/9/2008,Magnolia Pictures,Documentary,R,269994,37604,269997
+345,The Lucky Ones,9/26/2008,Lionsgate,Drama,R,266967,37182,266967
+346,My Brother Is an Only Child,3/28/2008,ThinkFilm,Drama,R,255620,35602,255622
+347,Honeydripper,12/28/2007,Emerging Pictures,Drama,PG-13,252103,35112,252104
+348,The Signal,2/22/2008,Magnolia Pictures,Horror,R,251150,34979,251149
+349,Lars and the Real Girl,10/12/2007,MGM,Comedy,PG-13,248606,34625,248608
+350,One Two Three,3/28/2008,Eros Entertainment,Comedy,Not Rated,246724,34363,246726
+351,Chaos Theory,3/14/2008,Warner Bros.,Comedy,PG-13,240476,33492,240473
+352,"C'est pas moi, je le jure!",9/25/2008,Films Seville,Comedy,Not Rated,235027,32734,235030
+353,The Foot Fist Way,5/30/2008,Paramount Vantage,Comedy,R,234286,32630,234283
+354,Il Divo,5/28/2008,Music Box Films,Drama,,233124,32469,233127
+355,La Vie en Rose,6/8/2007,Picturehouse,Drama,PG-13,230722,32134,230722
+356,Standard Operating Procedure,4/25/2008,Sony Pictures Classics,Documentary,R,228830,31870,228827
+357,Goal! 2: Living the Dream...,8/29/2008,Buena Vista,Drama,PG-13,225067,31346,225064
+358,Sixty Six,8/1/2008,First Independent Pictures,Comedy,PG-13,223526,31132,223528
+359,Battle in Seattle,9/19/2008,ThinkFilm,Drama,R,223051,31066,223054
+360,Waltz with Bashir,12/25/2008,Sony Pictures Classics,Documentary,R,220441,30702,220440
+361,"Che, El Ar the Argentine",9/5/2008,,,R,218470,30428,218473
+362,Chris and Don: A Love Story,6/13/2008,Zeitgeist,Documentary,Not Rated,216110,30099,216111
+363,Hell Ride,8/8/2008,Weinstein Co.,Action,R,213608,29750,213605
+364,Call+Response,10/10/2008,Fair Trade Pictures,Documentary,PG-13,207625,28917,207624
+365,CJ7,3/7/2008,Sony Pictures Classics,Comedy,PG,206678,28785,206676
+366,The Legend of God's Gun,7/18/2008,Indican Pictures,Western,Not Rated,204682,28507,204680
+367,Steep,12/21/2007,Sony Pictures Classics,Documentary,PG,204069,28422,204070
+368,The Darjeeling Limited,9/29/2007,Fox Searchlight,Adventure,R,204055,28420,204056
+369,The Secret of the Grain,8/1/2008,IFC Films,Drama,Not Rated,203490,28341,203488
+370,"My Father, My Lord",5/16/2008,Kino International,Drama,Not Rated,203304,28315,203302
+371,Defiance,12/31/2008,Paramount Vantage,Drama,R,200614,27941,200616
+372,La Traviata at La Scala,2/15/2008,Emerging Pictures,Concert/Performance,Not Rated,195494,27228,195497
+373,The Errand of Angels,8/22/2008,Excel Entertainment,Drama,PG,195184,27184,195181
+374,Ben X,10/24/2008,Film Movement,Drama,Not Rated,193137,26899,193135
+375,Margot at the Wedding,11/16/2007,Paramount Vantage,Drama,R,191989,26739,191986
+376,Fashion,10/31/2008,UTV Communications,Musical,Not Rated,191442,26663,191440
+377,This Christmas,11/21/2007,Sony/Screen Gems,Drama,PG-13,189864,26443,189861
+378,Elsa & Fred,6/27/2008,Mitropoulos Films,Romantic Comedy,PG,189024,26326,189021
+379,Wild Safari 3D,4/8/2005,nWave Pictures,Documentary,Not Rated,187606,26129,187606
+380,Constantine's Sword,4/18/2008,First Run Features,Documentary,Not Rated,179507,25001,179507
+381,Chicago 10,2/29/2008,Roadside Attractions,Documentary,R,176545,24588,176542
+382,Ashes of Time Redux,10/10/2008,Sony Pictures Classics,Action,R,173526,24168,173526
+383,My Name is Bruce,10/31/2008,Image Entertainment,Horror,R,173066,24104,173067
+384,In Search of a Midnight Kiss,8/1/2008,IFC First Take,Drama,Not Rated,172177,23980,172176
+385,Ce qu'il faut pour vivre,8/29/2008,Films Seville,Drama,Not Rated,170543,23753,170547
+386,Sleepwalking,3/14/2008,Overture Films,Drama,R,168972,23534,168974
+387,Mister Lonely,4/30/2008,IFC Films,Comedy,Not Rated,165831,23096,165829
+388,Haunted Castle,3/2/2001,nWave Pictures,Adventure,PG,165100,22994,165097
+389,Girls Rock!,3/7/2008,Shadow,Documentary,PG,159294,22186,159295
+390,My Winnipeg,6/13/2008,IFC First Take,Documentary,Not Rated,156629,21815,156632
+391,A Man Named Pearl,8/31/2007,Railroad Square,Documentary,G,156090,21740,156093
+392,The Flyboys,8/15/2008,Self Distributed,Adventure,PG-13,144110,20071,144110
+393,Shelter,3/21/2008,Regent Releasing,Drama,R,142666,19870,142667
+394,FLOW: For Love of Water,3/21/2008,Oscilloscope Pictures,Documentary,Not Rated,142569,19856,142566
+395,Repo! The Genetic Opera,11/7/2008,Lionsgate,Musical,R,140244,19533,140247
+396,Baghead,6/13/2008,Sony Pictures Classics,Drama,R,140016,19501,140017
+397,Nanking,12/12/2007,ThinkFilm,Documentary,R,134970,18798,134970
+398,Hounddog,9/19/2008,Empire Pictures,Drama,R,132016,18387,132019
+399,Proud American,9/12/2008,Lightsource,Drama,PG,131672,18339,131674
+400,The First Saturday in May,4/18/2008,Truly Indie,Documentary,PG-13,124294,17311,124293
+401,Alexandra,3/28/2008,Cinema Guild,Drama,Not Rated,124085,17282,124085
+402,God Tussi Great Ho,8/15/2008,Eros Entertainment,Comedy,Not Rated,121432,16913,121435
+403,The Grand,3/21/2008,Anchor Bay Entertainment,Comedy,R,115879,16139,115878
+404,Chop Shop,2/27/2008,Noruz Films,Drama,Not Rated,115775,16125,115778
+405,The Other End of the Line,10/31/2008,MGM,Romantic Comedy,PG-13,115504,16087,115505
+406,Bra Boys,4/11/2008,BerKela Films,Documentary,R,113730,15840,113731
+407,Mere Baap Pahle Aap,6/13/2008,,Comedy,Not Rated,113576,15818,113573
+408,Days and Clouds,7/11/2008,Film Movement,,Not Rated,112103,15613,112101
+409,Wendy and Lucy,12/10/2008,Oscilloscope Pictures,Drama,R,111329,15505,111326
+410,Youth Without Youth,12/14/2007,Sony Pictures Classics,Thriller/Suspense,R,110516,15392,110515
+411,Pathology,4/18/2008,MGM,Thriller/Suspense,R,109045,15187,109043
+412,Trumbo,6/27/2008,Samuel Goldwyn Films,Documentary,PG-13,108280,15081,108282
+413,Boy A,7/23/2008,Weinstein Co.,Drama,R,106368,14814,106365
+414,Bustin' Down the Door,7/25/2008,Screen Media Films,Documentary,Not Rated,106100,14777,106099
+415,A Jihad for Love,5/21/2008,First Run Features,Documentary,Not Rated,105651,14715,105654
+416,Another Gay Sequel,8/29/2008,TLA Releasing,Comedy,Not Rated,104828,14600,104828
+417,Aida at La Scala,12/7/2007,Emerging Pictures,Concert/Performance,Not Rated,104819,14599,104821
+418,Love Songs,3/21/2008,IFC First Take,Musical,Not Rated,103970,14481,103974
+419,Beaufort,1/18/2008,Kino International,Action,Not Rated,102342,14254,102344
+420,Greetings from the Shore,9/12/2008,Newstyle Releasing,Drama,R,94715,13192,94719
+421,Momma's Man,1/18/2008,ThinkFilm,Comedy,Not Rated,93045,12959,93046
+422,Lola Montes,10/10/2008,Rialto Pictures,Drama,Not Rated,90774,12643,90777
+423,The Unforeseen,2/29/2008,Cinema Guild,Documentary,Not Rated,90287,12575,90289
+424,Bab'Aziz - The Prince Who Contemplated His Soul,2/8/2008,Typecast Releasing,Drama,Not Rated,89672,12489,89671
+425,Blindsight,3/5/2008,Spark Entertainment,Documentary,PG,89169,12419,89168
+426,Were the World Mine,10/31/2008,SPEAKproductions,Musical,Not Rated,88788,12366,88788
+427,Tuya's Marriage,4/4/2008,Music Box Films,Drama,Not Rated,88148,12277,88149
+428,Louise Bourgeois,6/25/2008,Zeitgeist,Documentary,Not Rated,87997,12256,87998
+429,Little Chenier,1/18/2008,Slowhand Cinema,Drama,R,87939,12248,87941
+430,One Day You'll Understand,10/31/2008,Kino International,Drama,Not Rated,84787,11809,84789
+431,"Me & You, Us, Forever",2/15/2008,Five & Two Pictures,Drama,Not Rated,84093,11712,84092
+432,Kabluey,7/4/2008,Regent Releasing,Comedy,PG-13,83506,11630,83503
+433,Maria Stuarda at La Scala,3/14/2008,Emerging Pictures,Concert/Performance,Not Rated,83214,11590,83216
+434,Dalai Lama Renaissance,5/21/2008,Self Distributed,Documentary,Not Rated,82736,11523,82735
+435,Praying with Lior,2/1/2008,First Run Features,Documentary,Not Rated,82553,11498,82556
+436,Save Me,9/5/2008,First Run Features,Drama,Not Rated,82369,11472,82369
+437,Humboldt County,9/26/2008,Magnolia Pictures,Comedy,R,82357,11470,82355
+438,Ballast,10/1/2008,IFC Films,Drama,Not Rated,80203,11170,80201
+439,Oye Lucky! Lucky Oye!,11/28/2008,UTV Communications,Comedy,Not Rated,80037,11147,80035
+440,Il Trittico at Fenice,5/2/2008,Emerging Pictures,Concert/Performance,Not Rated,79842,11120,79842
+441,Cover,2/22/2008,Reel Diva Consultants,Thriller/Suspense,PG-13,79436,11064,79440
+442,Ping Pong Playa,9/5/2008,IFC Films,Drama,PG-13,77907,10851,77910
+443,Fears of the Dark,10/22/2008,IFC Films,Horror,Not Rated,77876,10846,77874
+444,One Day You'll Understand,11/21/2008,City Lights Pictures,Drama,Not Rated,77368,10775,77365
+445,Water Lilies,4/4/2008,Koch Lorber Films,Drama,Not Rated,77310,10767,77307
+446,Love Comes Lately,6/13/2008,Kino International,Drama,Not Rated,76872,10706,76869
+447,A Thousand Years of Good Prayers,9/19/2008,Magnolia Pictures,Drama,Not Rated,76806,10697,76804
+448,America the Beautiful,5/9/2008,First Independent Pictures,Documentary,R,76173,10609,76173
+449,Still Life,1/18/2008,New Yorker,Drama,Not Rated,75985,10583,75986
+450,The Stone Angel,7/11/2008,Vivendi Entertainment,Drama,R,75139,10465,75139
+451,August Evening,9/5/2008,Maya Releasing,Drama,PG-13,74494,10375,74493
+452,Midnight Meat Train,8/1/2008,Lionsgate,Thriller/Suspense,R,73548,10243,73545
+453,Body of War,3/7/2008,Film Sales Company,Documentary,Not Rated,71716,9988,71714
+454,A Four Letter Word,4/4/2008,Embrem Entertainment,Comedy,Not Rated,70864,9870,70867
+455,Take Out,6/6/2008,CAVU Releasing,Drama,Not Rated,69816,9724,69818
+456,The Business of Being Born,1/9/2008,International Film Circuit,Documentary,Not Rated,69348,9658,69344
+457,"Lust, Caution",9/28/2007,Focus Features,Drama,NC-17,69253,9645,69251
+458,Happy Valley,3/28/2008,Stone Five Studios,Documentary,PG-13,67665,9424,67664
+459,Stuck,5/30/2008,ThinkFilm,Thriller/Suspense,R,67505,9402,67506
+460,Allah Made Me Funny,10/3/2008,Truly Indie,Documentary,Not Rated,66903,9318,66903
+461,CSNY: D?j? Vu,7/25/2008,Roadside Attractions,Documentary,R,65025,9056,65022
+462,Stranded: I've Come from a Plane that Crashed on the Mountains,10/22/2008,Zeitgeist,Documentary,Not Rated,64000,8914,64003
+463,Harvard Beats Yale,11/19/2008,Kino/Emerging,Documentary,Not Rated,63973,8910,63974
+464,Lions for Lambs,11/9/2007,United Artists,Drama,R,62708,8734,62710
+465,Summer Palace,1/18/2008,Palm Pictures,Drama,Not Rated,62707,8734,62710
+466,Bloodline,5/9/2008,Cinema Libre,Documentary,R,62248,8670,62251
+467,Alice's House,1/25/2008,Vitagraph Films,Drama,Not Rated,61678,8590,61676
+468,Deal,4/25/2008,MGM,Drama,PG-13,61626,8583,61626
+469,Romance and Cigarettes,9/7/2007,Borotoro,Comedy,R,60905,8483,60908
+470,Mister Foe,9/5/2008,Magnolia Pictures,Drama,R,60641,8446,60642
+471,Boogie Man: The Lee Atwater Story,9/26/2008,InterPositive Media,Documentary,Not Rated,60332,8403,60334
+472,The Order of Myths,7/25/2008,Cinema Guild,Documentary,Not Rated,59400,8273,59400
+473,Roman Polanski: Wanted and Desired,7/11/2008,ThinkFilm,Documentary,Not Rated,59192,8244,59192
+474,Meet Bill,4/4/2008,First Look,Comedy,R,59108,8232,59106
+475,What We Do Is Secret,8/8/2008,Rhino Theatrical,Drama,R,58776,8186,58775
+476,War Dance,11/9/2007,ThinkFilm,Documentary,PG-13,57525,8012,57526
+477,The Secrets,11/26/2008,Monterey Media,Drama,R,57509,8010,57512
+478,Finding Amanda,6/27/2008,Magnolia Pictures,Comedy,R,57297,7980,57296
+479,Beautiful Losers,8/8/2008,Sidetrack Films,Documentary,Not Rated,56386,7853,56385
+480,Chapter 27,3/28/2008,Vitagraph Films,Drama,R,56215,7829,56212
+481,Roadside Romeo,10/24/2008,Yash Raj Films,Adventure,Not Rated,55202,7688,55200
+482,Mother of Tears,6/6/2008,Mitropoulos Films,Horror,Not Rated,54947,7653,54949
+483,Human Condition Trilogy,7/18/2008,Janus Films,Drama,,54828,7636,54826
+484,Holly,11/9/2007,Priority Films,Drama,R,54817,7635,54819
+485,The Violin,12/5/2007,Film Movement,Drama,Not Rated,54633,7609,54633
+486,Sangre de mi sangre,5/14/2008,IFC Films,Drama,Not Rated,54166,7544,54166
+487,A Plumm Summer,4/25/2008,Freestyle Releasing,Adventure,PG,53752,7486,53749
+488,La Forza del Destino,4/3/2008,Emerging Pictures,Concert/Performance,Not Rated,52577,7323,52579
+489,Dare Not Walk Alone,4/25/2008,Indican Pictures,Documentary,Not Rated,52166,7265,52163
+490,Pray the Devil Back to Hell,11/7/2008,Balcony Releasing,Documentary,Not Rated,51886,7226,51883
+491,Blue Gap Boy'z,11/7/2008,Better World Distribution,Adventure,Not Rated,51576,7183,51574
+492,Shoot Down,1/25/2008,Magic Lamp,Documentary,PG-13,51408,7160,51409
+493,Gunnin' for that #1 Spot,6/27/2008,Oscilloscope Pictures,Documentary,PG-13,50804,7076,50806
+494,Sukiyaki Western Django,8/29/2008,First Look,Action,R,50659,7056,50662
+495,Boarding Gate,3/21/2008,Magnet Pictures,Thriller/Suspense,R,50440,7025,50440
+496,Tristan und Isolde at La Scala,1/18/2008,The Bigger Picture,Concert/Performance,Not Rated,50172,6988,50174
+497,Paris,9/18/2009,Equinox,Comedy,R,49954,6957,49951
+498,La Rondine,3/8/2008,The Bigger Picture,Concert/Performance,Not Rated,49088,6837,49090
+499,Passage to Zarahemla,10/12/2007,Somerset Films,Adventure,PG-13,47935,6676,47934
+500,XXY,5/2/2008,Film Movement,Drama,Not Rated,46011,6408,46009
+501,Undoing,1/4/2008,Indican Pictures,Drama,R,44999,6267,44997
+502,The Babysitters,5/9/2008,Peace Arch Releasing,Drama,R,44852,6247,44853
+503,All Roads Lead Home,9/26/2008,Waldo West Productions,Drama,PG,43905,6115,43906
+504,For the Bible Tells Me So,10/5/2007,First Run Features,Documentary,Not Rated,43505,6059,43504
+505,Breakfast with Scot,10/10/2008,Regent Releasing,Drama,PG-13,43383,6042,43382
+506,Moving Midway,9/12/2008,First Run Features,Documentary,Not Rated,40864,5691,40861
+507,Loins of Punjab Presents,9/12/2008,Emerging Pictures,Comedy,Not Rated,39891,5556,39892
+508,How About You,11/14/2008,Strand,Drama,Not Rated,39763,5538,39763
+509,Refusenik,4/11/2008,Abramorama Films,Documentary,Not Rated,39456,5495,39454
+510,Blonde and Blonder,1/18/2008,Empire Pictures,Comedy,PG-13,38848,5411,38851
+511,I Can't Think Straight,11/21/2008,Regent Releasing,Romantic Comedy,PG-13,38589,5375,38593
+512,Rififi,7/21/2000,,,Not Rated,37469,5219,37472
+513,Shotgun Stories,12/14/2007,International Film Circuit,Drama,PG-13,37116,5169,37113
+514,"Surfer, Dude",9/5/2008,Anchor Bay Entertainment,Comedy,R,36497,5083,36496
+515,Control,10/10/2007,Weinstein Co.,Drama,R,35106,4889,35103
+516,"Dhamma Brothers, The",4/11/2008,Balcony Releasing,Documentary,Not Rated,34727,4837,34730
+517,The Edge of Love,12/31/2008,,Drama,R,33260,4632,33258
+518,Enlighten Up!,9/12/2008,Balcony Releasing,Documentary,Not Rated,33226,4628,33229
+519,Kiss the Bride,4/18/2008,Regent Releasing,Romantic Comedy,R,32033,4461,32030
+520,Hats Off,3/28/2008,Abramorama Films,Documentary,Not Rated,31272,4355,31269
+521,Fighting for Life,3/7/2008,Truly Indie,Documentary,Not Rated,30606,4263,30608
+522,Dark Matter,4/11/2008,First Independent/Dada Films,Drama,R,30591,4261,30594
+523,Familiar Strangers,11/14/2008,Cavalier Films,Comedy,PG-13,30552,4255,30551
+524,The Assassination of Jesse James by the Coward Robert Ford,9/21/2007,Warner Bros.,Western,R,30501,4248,30501
+525,Jannat,5/16/2008,Shemaroo Entertainment,Drama,Not Rated,30316,4222,30314
+526,Kiss Me Deadly,5/2/2008,Regent Releasing,,R,30316,4222,30314
+527,Yella,5/16/2008,Cinema Guild,Drama,Not Rated,30309,4221,30307
+528,The Alphabet Killer,11/7/2008,Anchor Bay Entertainment,Thriller/Suspense,R,29784,4148,29783
+529,While She Was Out,12/12/2008,Anchor Bay Entertainment,Thriller/Suspense,R,29784,4148,29783
+530,Lou Reed's Berlin,7/18/2008,Weinstein Co.,Concert/Performance,PG-13,29692,4135,29689
+531,Mission Istaanbul,7/25/2008,Raja Cinema,Adventure,Not Rated,29269,4076,29266
+532,Good Dick,10/10/2008,Present Pictures/Morning Knight,Drama,R,28835,4016,28835
+533,Jimmy Carter: Man From Plains,10/26/2007,Sony Pictures Classics,Documentary,PG,28278,3938,28275
+534,Don Carlo,12/5/2008,Emerging Pictures,Concert/Performance,Not Rated,27834,3877,27837
+535,The Hottie and the Nottie,2/8/2008,Regent Releasing,Romantic Comedy,PG-13,27696,3857,27693
+536,Frontrunners,10/15/2008,Oscilloscope Pictures,Documentary,Not Rated,26976,3757,26975
+537,"Exiles, The",7/11/2008,Milestone,,Not Rated,26516,3693,26516
+538,The Dukes,11/14/2008,CAVU Releasing,Comedy,PG-13,26157,3643,26157
+539,The Air I Breathe,1/25/2008,ThinkFilm,Drama,R,25775,3590,25776
+540,Before I Forget,7/18/2008,Strand,Drama,Not Rated,25209,3511,25209
+541,The Walker,12/7/2007,ThinkFilm,Drama,R,24732,3445,24735
+542,How to Cook Your Life,10/26/2007,Roadside Attractions,Documentary,PG-13,23789,3313,23787
+543,Sex and Death 101,2/22/2008,Anchor Bay Entertainment,Comedy,R,23563,3282,23565
+544,On Broadway,3/14/2008,Picture Park,Drama,Not Rated,23095,3217,23098
+545,Ciao,12/5/2008,Regent Releasing,,R,22944,3196,22947
+546,Yiddish Theater: A Love Story,11/21/2007,New Love Films,Documentary,Not Rated,22653,3155,22653
+547,Timecrimes,12/12/2008,Magnolia Pictures,Thriller/Suspense,R,22494,3133,22495
+548,Filth and Wisdom,10/17/2008,IFC Films,Comedy,Not Rated,22406,3121,22409
+549,The Elephant King,10/17/2008,Unison Films,Drama,R,22251,3099,22251
+550,In Search Of,11/7/2008,,Drama,Not Rated,22094,3077,22093
+551,Maldeamores,3/14/2008,Maya Releasing,Drama,R,22000,3064,22000
+552,Woman on the Beach,1/9/2008,New Yorker,Comedy,Not Rated,21957,3058,21956
+553,The Matador,10/31/2008,City Lights Pictures,Documentary,Not Rated,21816,3038,21813
+554,The Cry,4/25/2008,Monterey Media,Thriller/Suspense,R,21427,2984,21425
+555,Diminished Capacity,7/4/2008,IFC Films,Comedy,Not Rated,21291,2965,21289
+556,Dear Zachary: a letter to a son about his father,10/31/2008,Oscilloscope Pictures,Documentary,Not Rated,20834,2902,20836
+557,Walking on Dead Fish,9/19/2008,Variance Films,Documentary,PG-13,20705,2884,20707
+558,The First Basket,10/29/2008,Laemmle/Zeller Film,Documentary,Not Rated,20440,2847,20441
+559,Glass: A Portrait of Philip in Twelve Parts,4/18/2008,Koch Lorber Films,Documentary,Not Rated,20018,2788,20018
+560,Garden Party,7/11/2008,Roadside Attractions,Drama,Not Rated,19853,2765,19853
+561,Trying to Get Good: The Jazz Odyssey of Jack Sheldon,5/30/2008,Reel Source,Documentary,Not Rated,19712,2745,19709
+562,Beauty in Trouble,6/13/2008,Menemsha Entertainment,Comedy,Not Rated,19300,2688,19300
+563,Saving Marriage,10/17/2008,Regent Releasing,Documentary,PG-13,18720,2607,18718
+564,To the Limit,6/13/2008,First Run Features,Documentary,Not Rated,18254,2542,18252
+565,Joe Strummer: The Future is Unwritten,11/2/2007,Sony Pictures,Documentary,Not Rated,18190,2533,18187
+566,My Kid Could Paint That,10/5/2007,Sony Pictures Classics,Documentary,PG-13,18133,2525,18130
+567,Billy the Kid,12/5/2007,Elephant Eye Films,Documentary,Not Rated,17809,2480,17806
+568,The World Unseen,11/7/2008,Regent Releasing,Drama,PG-13,17808,2480,17806
+569,Imaginary Witness: Hollywood and the Holocaust,12/25/2007,Shadow,Documentary,Not Rated,17537,2442,17534
+570,Holding Trevor,7/4/2008,Regent Releasing,Drama,R,16814,2342,16816
+571,Day Zero,1/18/2008,First Look,Drama,R,16659,2320,16658
+572,Noise,5/9/2008,ThinkFilm,Black Comedy,R,16513,2300,16514
+573,Antarctica,8/29/2008,Regent Releasing,Romantic Comedy,R,16312,2272,16313
+574,Cthulhu,8/22/2008,Regent Releasing,Horror,R,15513,2161,15516
+575,David & Layla,7/20/2007,Newroz Films,Romantic Comedy,R,15427,2149,15430
+576,All Hat,1/18/2008,,Comedy,R,15198,2117,15200
+577,Never Forever,4/11/2008,Arts Alliance America,Drama,R,14485,2017,14482
+578,Kabei,1/26/2008,,,,14416,2008,14417
+579,Military Intelligence and You!,2/8/2008,Anywhere Road Entertainment,Black Comedy,Not Rated,14251,1985,14252
+580,Splinter,10/31/2008,Magnolia Pictures,Horror,,14154,1971,14152
+581,Ripple Effect,7/11/2008,Monterey Media,Drama,R,14059,1958,14058
+582,Poultrygeist: Night of the Chicken Dead,5/9/2008,Troma Entertainment,Comedy,Not Rated,13804,1923,13807
+583,Full Grown Men,6/25/2008,Emerging Pictures,Comedy,Not Rated,13716,1910,13714
+584,Good,12/31/2008,ThinkFilm,Drama,Not Rated,13651,1901,13649
+585,Grace Is Gone,12/7/2007,Weinstein Co.,Drama,PG,13467,1876,13470
+586,Harold,7/11/2008,City Lights Pictures,Comedy,PG-13,13229,1842,13226
+587,Eden,11/14/2008,,Drama,Not Rated,13053,1818,13053
+588,My Mexican Shivah,8/29/2008,Emerging Pictures,Comedy,Not Rated,13042,1816,13039
+589,Blind Mountain,3/12/2008,Kino International,Drama,Not Rated,12719,1771,12716
+590,In the Valley of Elah,9/14/2007,Warner Bros.,Drama,R,12718,1771,12716
+591,Lake City,11/21/2008,Screen Media Films,Drama,R,12686,1767,12687
+592,Jake's Corner,9/5/2008,Emerging Pictures,Drama,PG,12522,1744,12522
+593,Shoot on Sight,9/26/2008,Aron Govil Productions,Drama,R,12500,1741,12500
+594,The Tracey Fragments,11/2/2007,Alliance Atlantis,Drama,R,12459,1735,12457
+595,Backseat,3/28/2008,Truly Indie,Drama,Not Rated,12343,1719,12342
+596,Full Battle Rattle,7/11/2008,Mile End Films,Documentary,Not Rated,12306,1714,12307
+597,Vice,5/9/2008,41 Inc.,Drama,R,12000,1671,11998
+598,The Go-Getter,6/6/2008,Peace Arch Releasing,Drama,R,11931,1662,11933
+599,Quid Pro Quo,6/13/2008,Magnolia Pictures,Drama,R,11864,1652,11861
+600,Contre-Enquete,2/29/2008,,Drama,Not Rated,11846,1650,11847
+601,August,7/11/2008,First Look,Drama,R,11762,1638,11761
+602,Kenny,7/18/2008,Arcangelo Entertainment,Comedy,PG-13,11644,1622,11646
+603,Gardens of the Night,11/7/2008,City Lights Pictures,Drama,R,11436,1593,11438
+604,Quiet Chaos,2/8/2008,,Drama,,11434,1592,11431
+605,Operation Filmmaker,6/4/2008,First Run/Icarus,Documentary,Not Rated,11391,1586,11387
+606,Outsourced,9/28/2007,Lantern Lane Entertainment,Comedy,PG-13,11340,1579,11337
+607,Last Stop for Paul,3/8/2008,Mandt Brothers,Adventure,PG-13,11340,1579,11337
+608,What Would Jesus Buy?,11/16/2007,Warrior Poets,Documentary,PG,11232,1564,11230
+609,Dark Streets,12/12/2008,Samuel Goldwyn Films,Drama,R,10958,1526,10957
+610,Lost in Beijing,1/25/2008,New Yorker,Drama,Not Rated,10827,1508,10827
+611,The Pleasure of Being Robbed,10/3/2008,,Drama,Not Rated,10687,1488,10684
+612,Sputnik Mania,3/14/2008,Balcony Releasing,Documentary,Not Rated,10650,1483,10648
+613,The Betrayal,11/21/2008,Cinema Guild,Documentary,Not Rated,10648,1483,10648
+614,Whaledreamers,9/26/2008,Monterey Media,Documentary,Not Rated,10584,1474,10583
+615,"Lord, Save Us From Your Followers",6/13/2008,Thunderstruck Films,Documentary,Not Rated,10510,1464,10512
+616,Rogue,4/25/2008,Weinstein Co.,Horror,R,10452,1456,10454
+617,Lagerfeld Confidential,10/24/2007,Koch Lorber Films,Documentary,Not Rated,10420,1451,10418
+618,The Black Balloon,12/5/2008,Icon Film Distribution,Drama,PG-13,10342,1440,10339
+619,Sleuth,10/12/2007,Sony Pictures Classics,Thriller/Suspense,R,9926,1382,9923
+620,Fronti?re(s),5/9/2008,After Dark,Horror,NC-17,9913,1381,9916
+621,"Live Fast, Die Young",10/24/2008,Riverrain,Drama,Not Rated,9841,1371,9844
+622,Youssou N'Dour: Return to Goree,7/18/2008,,,Not Rated,9746,1357,9743
+623,Elite Squad,9/19/2008,IFC Films,Action,R,8744,1218,8745
+624,Without the King,4/25/2008,First Run Features,Documentary,Not Rated,8663,1207,8666
+625,A Good Day to be Black and Sexy,12/5/2008,Magnolia Pictures,Drama,Not Rated,8629,1202,8630
+626,Battle for Haditha,5/7/2008,Lafayette Films,Documentary,R,8443,1176,8444
+627,Amexicano,12/5/2008,Maya Releasing,Drama,PG-13,8387,1168,8386
+628,Young People Fucking,8/29/2008,ThinkFilm,Comedy,Not Rated,8340,1162,8343
+629,Tru Loved,10/17/2008,Regent Releasing,Romantic Comedy,R,8043,1120,8042
+630,Kurt Cobain: About a Son,10/3/2007,Balcony Releasing,Documentary,Not Rated,7995,1114,7999
+631,"Otto; Or, Up with Dead People",11/7/2008,Strand,Drama,Not Rated,7733,1077,7733
+632,Little Big Top,10/31/2008,Self Distributed,Comedy,Not Rated,7484,1042,7482
+633,Ugly aur Pagli,8/1/2008,Shemaroo Entertainment,Comedy,Not Rated,7362,1025,7360
+634,Eden Lake,10/31/2008,Third Rail,Horror,R,7321,1020,7324
+635,Special,11/21/2008,Revolver Entertainment,Drama,R,7202,1003,7202
+636,Viva,6/20/2008,Vagrant Films,Comedy,Not Rated,7197,1002,7194
+637,The Killing of John Lennon,1/2/2008,IFC First Take,Drama,Not Rated,6975,971,6972
+638,Anamorph,4/16/2008,IFC Films,Thriller/Suspense,R,6873,957,6871
+639,Patti Smith: Dream of Life,8/15/2008,Palm Pictures,Documentary,Not Rated,6703,934,6706
+640,Take,7/18/2008,Liberation Entertainment,Drama,R,6627,923,6627
+641,Expired,6/20/2008,MCR Releasing,Comedy,Not Rated,6596,919,6598
+642,One Piece: The Desert Princess and the Pirates Adventures in Alabasta,2/7/2008,The Bigger Picture,Adventure,Not Rated,6587,917,6584
+643,The Sensation of Sight,11/9/2007,Monterey Media,Drama,R,6558,913,6555
+644,Ek Vivah Aisa Nhi,11/7/2008,Eros Entertainment,Drama,Not Rated,6437,897,6440
+645,It's a Free World...,5/16/2008,IFC Films,Drama,Not Rated,6389,890,6390
+646,Arranged,12/14/2007,Film Movement,Drama,Not Rated,6312,879,6311
+647,Times and Winds,1/11/2008,Atlantik Films,Drama,Not Rated,6176,860,6175
+648,Red Roses and Petrol,6/27/2008,World Wide Motion Pictures,Drama,R,6000,836,6002
+649,The Restless,11/21/2008,CJ Entertainment,Drama,,5976,832,5974
+650,Choose Connor,10/10/2008,Strand,Drama,Not Rated,5788,806,5787
+651,Skid Marks,1/25/2008,Diversa Films,Comedy,Not Rated,5729,798,5730
+652,Fraulein,9/19/2008,Film Movement,Drama,Not Rated,5715,796,5715
+653,Christmas on Mars,9/12/2008,Self Distributed,Musical,Not Rated,5692,793,5694
+654,Gomorrah,12/19/2008,IFC Films,Drama,Not Rated,5532,770,5529
+655,Insidious,5/23/2008,Romantic Troubadour Entertainment,Thriller/Suspense,Not Rated,5508,767,5507
+656,Nights and Weekends,10/10/2008,IFC Films,Drama,Not Rated,5430,756,5428
+657,The Amazing Truth About Queen Raquela,9/26/2008,Regent Releasing,Drama,R,5384,750,5385
+658,Heartbeat Detector,3/14/2008,New Yorker,Thriller/Suspense,Not Rated,5309,739,5306
+659,A Lawyer Walks into a Bar,2/29/2008,Indican Pictures,Documentary,Not Rated,5202,725,5206
+660,El Inmigrante,7/13/2007,Indican Pictures,Documentary,Not Rated,5196,724,5198
+661,The Willow Tree,8/3/2007,New Yorker,Drama,Not Rated,5120,713,5119
+662,God and Gays: Bridging the Gap,10/24/2008,Indican Pictures,Documentary,Not Rated,5095,710,5098
+663,Fuel,11/14/2008,Blue Water Entertainment,Documentary,Not Rated,4915,685,4918
+664,Tre,2/1/2008,Cinema Libre,Drama,Not Rated,4759,663,4760
+665,Stealing America: Vote by Vote,8/1/2008,Direct Cinema Ltd,Documentary,Not Rated,4740,660,4739
+666,I Want Someone To Eat Cheese With,9/5/2007,IFC Films,Comedy,Not Rated,4658,649,4660
+667,Red,8/8/2008,Magnolia Pictures,Thriller/Suspense,Not Rated,4643,647,4645
+668,Mad Detective,7/18/2008,IFC Films,Thriller/Suspense,Not Rated,4629,645,4631
+669,Twisted: A Balloonamentary,5/23/2008,"Eliot Lives Productions, LLC",Documentary,Not Rated,4345,605,4344
+670,Poisoned by Polonium: Litvinenko File,3/21/2008,Kino International,Documentary,Not Rated,4293,598,4294
+671,"Romulus, My Father",2/29/2008,Magnolia Pictures,Drama,R,4283,597,4286
+672,Solar Flare,6/6/2008,Regent Releasing,Adventure,PG-13,4098,571,4100
+673,Heavy Metal in Baghdad,5/23/2008,Arts Alliance America,Documentary,R,4070,567,4071
+674,Vexville,2/14/2008,The Bigger Picture,Action,Not Rated,4070,567,4071
+675,Where God Left His Shoes,12/12/2008,IFC Films,Drama,Not Rated,3911,545,3913
+676,Camille,11/14/2008,A-Mark Entertainment,Adventure,PG-13,3849,536,3848
+677,The Holy Mountain,1/21/2007,Abkco Films,Adventure,Not Rated,3755,523,3755
+678,King Corn,10/12/2007,Balcony Releasing,Documentary,Not Rated,3676,512,3676
+679,Death Defying Acts,7/11/2008,Weinstein Co.,Drama,PG,3561,496,3561
+680,Vivere,2/29/2008,Regent Releasing,Drama,R,3547,494,3547
+681,Nothing But the Truth,12/19/2008,Yari Film Group Releasing,Drama,R,3500,487,3497
+682,House of the Sleeping Beauties,11/14/2008,First Run Features,Drama,Not Rated,3387,472,3389
+683,Fraude,10/10/2008,Maya Releasing,Documentary,Not Rated,3373,470,3375
+684,"Flash Point (2007, Hong Kong)",3/14/2008,Third Rail,Action,Not Rated,3271,456,3274
+685,Wonderful Town,7/18/2008,Kino International,Drama,Not Rated,3239,451,3238
+686,American Zombie,3/28/2008,Cinema Libre,Horror,Not Rated,3126,435,3123
+687,Who Does She Think She Is?,10/17/2008,Artistic License,Documentary,Not Rated,3081,429,3080
+688,The Beautiful Truth,11/14/2008,Cinema Libre,Documentary,Not Rated,3026,421,3023
+689,Run For Your Life,10/31/2008,Screen Media Films,Documentary,Not Rated,2992,417,2994
+690,Wetlands Preserved: The Story of an Activist Rock Club,3/14/2008,First Run Features,Documentary,Not Rated,2970,414,2973
+691,"On the Other Hand, Death: A Donald Strachey Mystery",7/18/2008,Regent Releasing,Thriller/Suspense,R,2892,403,2894
+692,Shrooms,2/1/2008,Magnolia Pictures,Horror,Not Rated,2863,399,2865
+693,Nina's Heavenly Delights,11/21/2007,Regent Releasing,Comedy,PG,2852,397,2850
+694,Lower Learning,10/10/2008,Anchor Bay Entertainment,Comedy,R,2804,391,2807
+695,Turn the River,5/9/2008,Screen Media Films,Drama,R,2722,379,2721
+696,Kicking It,6/13/2008,,Documentary,Not Rated,2669,372,2671
+697,Polar Opposites,6/6/2008,Regent Releasing,Drama,PG-13,2377,331,2377
+698,13 Months of Sunshine,6/6/2008,Abeselom Productions Distribution,Drama,Not Rated,2237,312,2240
+699,"Angry Monk: Reflections on Tibet, The",1/2/2009,First Run/Icarus,Documentary,Not Rated,2125,296,2125
+700,Running with Arnold,1/11/2008,Lantern Lane Entertainment,Documentary,Not Rated,2119,295,2118
+701,Staub,12/5/2008,Icarus Films,Documentary,Not Rated,2072,289,2075
+702,Murder.com,7/11/2008,Regent Releasing,Thriller/Suspense,R,2070,288,2068
+703,"Doulos, Le",6/29/2007,Rialto Pictures,Thriller/Suspense,Not Rated,2025,282,2025
+704,Hunger,12/5/2008,IFC Films,Drama,Not Rated,1980,276,1982
+705,Jack and Jill vs. the World,4/11/2008,Lantern Lane Entertainment,Romantic Comedy,PG-13,1964,274,1967
+706,El Topo,12/13/2006,Abkco Films,Western,Not Rated,1940,270,1939
+707,Fat Girls,11/2/2007,Regent Releasing,Comedy,R,1911,266,1910
+708,Maria Bethania: Music is Perfume,8/29/2008,ArtMattan Productions,Documentary,Not Rated,1858,259,1860
+709,Blonde Ambition,12/21/2007,First Look,Comedy,PG-13,1764,246,1766
+710,La Leon,10/10/2008,Music Box Films,Drama,Not Rated,1708,238,1709
+711,On the Rumba River,6/6/2008,First Run Features,Documentary,Not Rated,1698,236,1694
+712,Edgar Allan Poe's House of Usher,5/9/2008,Regent Releasing,Horror,R,1677,234,1680
+713,White Rainbow,4/7/2006,Rocky Mountain Pictures,Drama,PG-13,1403,195,1400
+714,Ice Blues: A Donald Strachey Mystery,10/10/2008,Regent Releasing,Thriller/Suspense,R,1377,192,1379
+715,Miss Conception,6/6/2008,First Look,Comedy,R,1342,187,1343
+716,Fall of Hyperion,10/10/2008,Regent Releasing,Thriller/Suspense,PG,1093,152,1091
+717,Flashbacks of a Fool,10/17/2008,Anchor Bay Entertainment,Drama,R,1020,142,1020
+718,9.99,6/19/2009,Regent Releasing,Comedy,R,781,109,783
+719,Death at a Funeral,8/17/2007,MGM,Comedy,R,744,104,747
+720,Looking for Cheyenne,12/7/2007,Regent Releasing,Drama,R,722,101,725
+721,How to Rob a Bank,2/6/2008,IFC Films,Comedy,Not Rated,711,99,711
+722,Beyond Belief,2/29/2008,Film Sales Company,Documentary,Not Rated,667,93,668
+723,The Life of Reilly,11/9/2007,Reel Diva Consultants,Concert/Performance,Not Rated,654,91,653
+724,Salvadore Allende,9/8/2006,First Run/Icarus,Documentary,Not Rated,634,88,632
+725,Disfigured,7/18/2008,Cinema Libre,Drama,Not Rated,586,82,589
+726,Rome & Jewel,11/28/2008,Emerging Pictures,Drama,Not Rated,470,65,467
+727,Beautiful Boxer,1/21/2005,Regent Releasing,Drama,Not Rated,447,62,445
+728,The Man of My Life,9/21/2007,Strand,Drama,Not Rated,424,59,424
+729,Look,12/14/2007,Captured Films,Drama,R,410,57,409
+730,The Rise and Fall of Miss Thang,8/14/2008,Lavender House Films,Drama,Not Rated,401,56,402
+731,I for India,1/11/2008,First Run/Icarus,Documentary,Not Rated,386,54,388
+732,The Bubble,9/7/2007,Strand,Drama,Not Rated,314,44,316
+733,Half Moon,12/14/2007,Strand,Comedy,Not Rated,243,34,244
+734,Show Business,5/11/2007,Regent Releasing,Documentary,PG,84,12,86
