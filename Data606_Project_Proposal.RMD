@@ -1,0 +1,89 @@
+---
+title: "Data606 Project Proposal"
+author: "Ritesh Lohiya"
+date: "March 31, 2018"
+output: html_document
+---
+
+Load Libraries:
+
+```{r}
+library(knitr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+```
+
+### Data Preparation
+
+```{r}
+movies_2008 <- read.csv("https://raw.githubusercontent.com/Riteshlohiya/Data606_Project_Proposal/master/movies_2008.csv", sep=",")
+head(movies_2008)
+```
+
+
+### Research question 
+
+The data is collected from StatCrunch and has the details of movie released in 2008. In this study we will see if the genre of a movie has any affect on the gross collection.
+
+
+### Cases 
+
+Each case represents the movie details. The dataset has 734 observations.
+
+### Data collection 
+
+The data is collected from StatCrunch website link for which is given below. The collected data is then stored in GitHub repository: https://raw.githubusercontent.com/Riteshlohiya/Data606_Project_Proposal/master/movies_2008.csv
+
+Link for data: https://www.statcrunch.com/app/index.php?dataid=398031
+
+### Type of study 
+
+This is an observational study.
+
+### Data Source 
+
+The data is from StatCrunch website link for which is given below.
+
+Link: https://www.statcrunch.com/app/index.php?dataid=398031
+
+### Response 
+
+Gross Collection(Gross_Collection) is the response variable which is numerical. 
+
+### Explanatory 
+
+Genre is the explanatory variable which is categorical.
+
+### Relevant summary statistics
+
+```{r}
+movies_2008 <- as.data.frame(movies_2008) 
+summary(movies_2008)
+```
+
+```{r}
+ggplot(movies_2008,aes(x=Genre,y=Gross_Collection)) + geom_boxplot()
+```
+
+Summary of the data:
+
+```{r}
+movies_2008  <- movies_2008 %>% 
+  group_by(Genre) 
+
+movies_2008 <- summarise(
+  movies_2008,
+  count = n(),
+  mean_collection = mean(Gross_Collection),
+  sd_collection = sd(Gross_Collection),
+  max_collection = max(Gross_Collection)
+  
+)
+
+movies_2008
+```
+
+
+
