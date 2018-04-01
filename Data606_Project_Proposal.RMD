@@ -64,6 +64,25 @@ summary(movies_2008)
 ```
 
 ```{r}
+movies_Genre <- table(movies_2008$Genre) 
+```
+
+```{r}
+par(oma = c(1,1,1,1))
+par(mar = c(4,5,2,1))
+barplot(movies_Genre[order(movies_Genre)],
+        horiz = TRUE,
+        las = 1,
+        col = c(rainbow(6)),
+        border = NA,
+        main = "Frequency of Movie Genre",
+        xlab = "Count",
+        font.lab = 2,
+        cex.names = 0.75)
+        
+```
+
+```{r}
 ggplot(movies_2008,aes(x=Genre,y=Gross_Collection)) + geom_boxplot()
 ```
 
@@ -84,6 +103,8 @@ movies_2008 <- summarise(
 
 movies_2008
 ```
+
+
 
 
 
