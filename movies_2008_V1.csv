@@ -1,4 +1,4 @@
-Rank,Movie,Release_Date,Distributor,Genre,MPAA,Gross_Collection,Tickets_Sold,Inflation_Adjusted_Gross,Tickets_TT,Gross_ML,RT_Rating
+Rank,Movie,Release_Date,Distributor,Genre,MPAA,Gross_Collection,Tickets_Sold,Inflation_Adjusted_Gross,Tickets_TT,Gross_ML,RotTom
 1,The Dark Knight,39647,Warner Bros.,Action/Adventure,PG-13,531001578,73955652,531001581,7395.5652,531.001578,8.2
 2,Iron Man,39570,Paramount Pictures,Action/Adventure,PG-13,318412101,44347089,318412099,4434.7089,318.412101,7.4
 3,Indiana Jones and the Kingdom of the Crystal Skull,39590,Paramount Pictures,Action/Adventure,PG-13,317101119,44164501,317101117,4416.4501,317.101119,5.7
