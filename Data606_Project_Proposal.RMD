@@ -18,25 +18,30 @@ library(ggplot2)
 ### Data Preparation
 
 ```{r}
-movies_2008 <- read.csv("https://raw.githubusercontent.com/Riteshlohiya/Data606_Project_Proposal/master/movies_2008.csv", sep=",")
+movies_2008 <- read.csv("https://raw.githubusercontent.com/Riteshlohiya/Data606_Project_Proposal/master/movies_2008_V1.csv", sep=",")
 head(movies_2008)
 ```
 
 
 ### Research question 
 
-The data is collected from StatCrunch and has the details of movie released in 2008. In this study we will see if the genre of a movie has any affect on the gross collection.
+The data is collected from StatCrunch and has the details of movie released in 2008. In this study we will see if the genre and RotTom(Rotten Tomatoes ratings) of a movie has any affect on the gross collection.
 
 
 ### Cases 
 
-Each case represents the movie details. The dataset has 734 observations.
+```{r}
+dim(movies_2008)
+```
+
+Each case represents the movie details. The dataset has 227 observations.
 
 ### Data collection 
 
-The data is collected from StatCrunch website link for which is given below. The collected data is then stored in GitHub repository: https://raw.githubusercontent.com/Riteshlohiya/Data606_Project_Proposal/master/movies_2008.csv
+The data is collected from StatCrunch website link for which is given below. The RomTom ratings are taken from Rotten Tomatoes. The collected data is then stored in GitHub repository: https://raw.githubusercontent.com/Riteshlohiya/Data606_Project_Proposal/master/movies_2008_V1.csv
 
-Link for data: https://www.statcrunch.com/app/index.php?dataid=398031
+Link for StatCrunch: https://www.statcrunch.com/app/index.php?dataid=398031
+Link for Rotten Tomatoes ratings: https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
 
 ### Type of study 
 
@@ -44,9 +49,10 @@ This is an observational study.
 
 ### Data Source 
 
-The data is from StatCrunch website link for which is given below.
+The data is from StatCrunch website link for which is given below. The RomTom ratings are taken from Rotten Tomatoes.
 
-Link: https://www.statcrunch.com/app/index.php?dataid=398031
+Link for StatCrunch: https://www.statcrunch.com/app/index.php?dataid=398031
+Link for Rotten Tomatoes ratings: https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
 
 ### Response 
 
@@ -54,7 +60,7 @@ Gross Collection(Gross_Collection) is the response variable which is numerical.
 
 ### Explanatory 
 
-Genre is the explanatory variable which is categorical.
+Genre is the explanatory variable which is categorical. RotTom is another explanatory variable which is numerical ordinal.
 
 ### Relevant summary statistics
 
@@ -82,18 +88,26 @@ barplot(movies_Genre[order(movies_Genre)],
         
 ```
 
+#Genre Boxplot:
+
 ```{r}
 ggplot(movies_2008,aes(x=Genre,y=Gross_Collection)) + geom_boxplot()
 ```
 
-Summary of the data:
+#RotTom Ratings Histogram:
 
 ```{r}
-movies_2008  <- movies_2008 %>% 
+ggplot(movies_2008, aes(x=RotTom)) + geom_histogram()
+```
+
+#Summary of the data for Gross_Collection by Genre:
+
+```{r}
+movies_2008_Gross_Collection  <- movies_2008 %>% 
   group_by(Genre) 
 
-movies_2008 <- summarise(
-  movies_2008,
+movies_2008_Gross_Collection <- summarise(
+  movies_2008_Gross_Collection,
   count = n(),
   mean_collection = mean(Gross_Collection),
   sd_collection = sd(Gross_Collection),
@@ -101,8 +115,28 @@ movies_2008 <- summarise(
   
 )
 
-movies_2008
+movies_2008_Gross_Collection
 ```
+
+#Summary of the data for RotTom Ratings by Genre:
+
+```{r}
+movies_2008_RotTom  <- movies_2008 %>% 
+  group_by(Genre) 
+
+movies_2008_RotTom <- summarise(
+  movies_2008_RotTom,
+  count = n(),
+  mean_RotTom = mean(RotTom),
+  sd_RotTom = sd(RotTom),
+  max_RotTom= max(RotTom)
+  
+)
+
+movies_2008_RotTom
+```
+
+
 
 
 
