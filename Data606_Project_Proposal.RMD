@@ -52,6 +52,7 @@ This is an observational study.
 The data is from StatCrunch website link for which is given below. The RomTom ratings are taken from Rotten Tomatoes.
 
 Link for StatCrunch: https://www.statcrunch.com/app/index.php?dataid=398031
+ 
 Link for Rotten Tomatoes ratings: https://www.kaggle.com/tmdb/tmdb-movie-metadata/data
 
 ### Response 
